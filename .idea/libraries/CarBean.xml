@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="CarBean">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Solutions/Ch7/Ex33/CarBean.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
